@@ -43,3 +43,10 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
 
 
+
+# digital signature scheme 
+first press oh SHA1 youll get the hash output then scroll down and click on the 1024 bit or whatever. now copy the hash output and paste it input to RSA. apply RSA done 
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/31322323-f027-461a-9f20-f3efb9525907)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/9bafcc49-29c3-483e-ae8b-7b5aa6996c87)
+
+
