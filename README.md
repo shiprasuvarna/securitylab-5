@@ -9,6 +9,8 @@ copy that result and paste it in vigenere ciphertext and dcrypt
 ![Screenshot 2023-10-29 130456](https://github.com/shiprasuvarna/sem-5/assets/102012006/05d79c7b-ffd3-4cf3-be81-5aa72fdf6e80)
 
 # playfair cipher ass2
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/47597fb3-295a-4703-9482-102eb06739ac)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/d8fe8a95-e725-43e9-aacf-61dfd450843d)
 
 
 # shift cipher ass1
