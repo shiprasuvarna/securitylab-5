@@ -29,4 +29,15 @@ ans is this
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7c448bbc-8019-4432-94e7-267994a8a1b8)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/e05ef3cb-c4e2-4e92-a586-0e55cec26fb1)
 
+# aes 
+# ecb
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/03118138-81a6-443b-90ab-772c2989778f)
+paste part 2 ka key in part 4 ka key , then plaintext ka first line in part 4 plaintext then encrypt then whatever ciphertext you get paste it below
+llly now same key and plaintext ka second line in part 4 ka plaintext encrypt whatever ciphertext you get copy it in part 5 next to the previous ciphertext do this for all the lines youll be pasting 5 ciphertext in the final box after encrypting line by line 
+
+# cipher block chaining 
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/344e41dc-fc8c-49cb-b27a-24719c445e9b)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8e521161-92b8-4709-850d-a9fb9bf86df9)
+first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
+
 
