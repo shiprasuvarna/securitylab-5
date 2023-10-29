@@ -63,8 +63,32 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7a0566eb-bdb4-4ef8-a546-1c40af2af326)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/ff2e98de-d75b-4f56-83d6-fdfe13d20a4f)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/c0c54dbd-bce3-4abe-b62e-b6f32d962e72)
+//first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times
 
-//first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
+# output feedback 
+1)Generate the plaintext, key and IV  
+2)Copy the IV and paste it in part 5 and part 4 ka plaintext   
+3)Copy the key from part 2 and paste it in part 4 ka key and encrypt 
+4)Copy the ciphertext from part 4 and paste it in part 3 ka first box  
+5)Copy the first line of plaintext from part 2 and paste it in part 3 ka second box and calculate xor
+6)Copy this xor and append it in part 5  
+7)Now copy the ciphertext from part 4 and paste it in the plaintext in part 4 and encrypt  
+8)Copy the ciphertext generated and paste it in part 3 ka first box 
+9)Copy the second line from part 2 ka plaintext and paste it in part 3 ka second box and calculate xor 
+10)Copy this xor and append it in part 5  
+11)Now again copy the ciphertext from part 4 and paste it in the plaintext of part 4 and encrypt 
+12)Now copy this ciphertext and paste it in paste it in part 3 ka first box 
+13)Copy the 3rd line from part 2 ka plaintext and paste it in part 3 ka second box and calculate xor  
+14)Copy this xor and append it in part 5  
+15)Copy the ciphertext from part 4 and paste it in plaintext of part 4 and encrypt  
+16)Copy the ciphertext generated and paste it in part 3 ka first box 
+17)Copy the 4th line from plaintext of part 2 and paste it in part 3 ka second box and calculate xor  
+18)Copy the xor and append it in part 5  
+19)Copy the ciphertext from part 4 and paste it in plaintext of part 4 and encrypt  
+20)Now copy the ciphertext generated and paste it in part 3 ka first box  
+21)Copy the last line of the plaintext in part 2 and paste it part 3 ka second box and calculate xor  
+22)Copy this xor and append it in part 5 and check ans  
+
 
 # public key cryptosystem
 Enter a plaintext then scroll down choose 1024 bits or something then press on encrypt. youll get the ciphertext now decrypt it done 
