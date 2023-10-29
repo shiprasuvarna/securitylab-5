@@ -41,25 +41,25 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 1)Generate the plaintext, the key and the IV  <br>
 2)Select the IV and paste it in part 5 and also in part 3 ka first box  
 3)Copy the first line from the plaintext and paste it in part 3 ka second box  and then calculate xor  
-4)Copy this xor and paste it in part 4 ka plaintext 
-5)Copy part 2 ka key and paste it in part 4 ka key then encrypt
-6)Now copy the ciphertext and paste it in part 5 next to the IV that we had already pasted 
-7)Now copy the cipertext in part 4 and paste it in part 3 ka first box
-8)Now copy the second line from the plaintext in part 2 and paste it in part 3 ka second box and then calculate xor 
-9)Now paste this xor in part 4 ka plaintext and encrypt. (key wont change ie keep the same key)
-10)Now copy the ciphertext generated in part 4 and append it in part 5 
-11)Again copy the ciphertext from part 4 and paste it in part 3 ka first box 
-12)Now copy the third line from the plaintext in part 2 and paste it in the second box of part 2 and calculate xor
-13)Now copy the xor and paste in part 4 ka plaintext and encrypt 
-14)Now copy the ciphertext generated in part 4 and append it in part 5
-15)Now again copy the ciphertext and paste it in part 3 ka first box
-16)Now copy the 4th line from the plaintext in part 2 and paste it in part 3 ka second box and calculate xor 
-17)Now copy the xor and paste it in part 4 ka plaintext and encrypt
-18)Now copy the ciphertext generated and append it in part 5 
-19)Again copy the ciphertxt and paste it in part 3 ka first box 
-20)Copy the last line from the plaintext in part 2 and paste it in part 3 ka second box and calculate xor 
-21)Copy the xor and paste it in part 4 ka plaintext and encrypt 
-22)Now copy the ciphertext from part 4 and append it in part 5 
+4)Copy this xor and paste it in part 4 ka plaintext  
+5)Copy part 2 ka key and paste it in part 4 ka key then encrypt  
+6)Now copy the ciphertext and paste it in part 5 next to the IV that we had already pasted   
+7)Now copy the cipertext in part 4 and paste it in part 3 ka first box  
+8)Now copy the second line from the plaintext in part 2 and paste it in part 3 ka second box and then calculate xor   
+9)Now paste this xor in part 4 ka plaintext and encrypt. (key wont change ie keep the same key)  
+10)Now copy the ciphertext generated in part 4 and append it in part 5   
+11)Again copy the ciphertext from part 4 and paste it in part 3 ka first box   
+12)Now copy the third line from the plaintext in part 2 and paste it in the second box of part 2 and calculate xor  
+13)Now copy the xor and paste in part 4 ka plaintext and encrypt   
+14)Now copy the ciphertext generated in part 4 and append it in part 5  
+15)Now again copy the ciphertext and paste it in part 3 ka first box  
+16)Now copy the 4th line from the plaintext in part 2 and paste it in part 3 ka second box and calculate xor   
+17)Now copy the xor and paste it in part 4 ka plaintext and encrypt  
+18)Now copy the ciphertext generated and append it in part 5   
+19)Again copy the ciphertxt and paste it in part 3 ka first box   
+20)Copy the last line from the plaintext in part 2 and paste it in part 3 ka second box and calculate xor   
+21)Copy the xor and paste it in part 4 ka plaintext and encrypt   
+22)Now copy the ciphertext from part 4 and append it in part 5   
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/344e41dc-fc8c-49cb-b27a-24719c445e9b)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8e521161-92b8-4709-850d-a9fb9bf86df9)
 first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
