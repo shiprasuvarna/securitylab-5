@@ -88,6 +88,10 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 20)Now copy the ciphertext generated and paste it in part 3 ka first box  
 21)Copy the last line of the plaintext in part 2 and paste it part 3 ka second box and calculate xor  
 22)Copy this xor and append it in part 5 and check ans  
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/42a5364f-366e-4ee2-b406-bbe9179370e3)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/de33640d-2b4e-472a-adc9-0ef329986c20)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/4bc1a6f3-8849-4406-b7a0-ef63101b3d23)
+
 
 
 # public key cryptosystem
