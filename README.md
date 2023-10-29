@@ -1,4 +1,4 @@
-![Screenshot 2023-10-29 123512](https://github.com/shiprasuvarna/sem-5/assets/102012006/6b8d02a5-bcea-414d-8c36-a02da321646e)# sem-5
+# sem-5
 # cns 
 # vigenere cipher ass2
 ![Screenshot 2023-10-29 123512](https://github.com/shiprasuvarna/sem-5/assets/102012006/409179ab-ad2c-460b-9327-09bb465c6a1d)
@@ -22,3 +22,11 @@ paste the same plaintext in part 4 and get the answer
 # mono alphabetic substitution cipher ass2
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/b425f511-57a2-40a0-8db5-092670c19be2)
 ans for above
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/890f7de7-d025-490c-94b5-1dd48e278bf9)
+and if you get this
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/ae57abdc-b12e-43d1-8501-b27cea17a746)
+ans is this 
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7c448bbc-8019-4432-94e7-267994a8a1b8)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/e05ef3cb-c4e2-4e92-a586-0e55cec26fb1)
+
+
