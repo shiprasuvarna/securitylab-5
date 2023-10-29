@@ -60,9 +60,9 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 20)Copy the last line from the plaintext in part 2 and paste it in part 3 ka second box and calculate xor   
 21)Copy the xor and paste it in part 4 ka plaintext and encrypt   
 22)Now copy the ciphertext from part 4 and append it in part 5   
-![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/344e41dc-fc8c-49cb-b27a-24719c445e9b)
-![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8e521161-92b8-4709-850d-a9fb9bf86df9)
-first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7a0566eb-bdb4-4ef8-a546-1c40af2af326)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/ff2e98de-d75b-4f56-83d6-fdfe13d20a4f)
+//first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
 
 # public key cryptosystem
 Enter a plaintext then scroll down choose 1024 bits or something then press on encrypt. youll get the ciphertext now decrypt it done 
