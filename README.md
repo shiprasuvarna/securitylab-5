@@ -38,9 +38,9 @@ paste part 2 ka key in part 4 ka key , then plaintext ka first line in part 4 pl
 llly now same key and plaintext ka second line in part 4 ka plaintext encrypt whatever ciphertext you get copy it in part 5 next to the previous ciphertext do this for all the lines youll be pasting 5 ciphertext in the final box after encrypting line by line 
 
 # cipher block chaining 
-1)Generate the plaintext, the key and the IV
-2)Select the IV and paste it in part 5 and also in part 3 ka first box
-3)Copy the first line from the plaintext and paste it in part 3 ka second box  and then calculate xor 
+1)Generate the plaintext, the key and the IV  <br>
+2)Select the IV and paste it in part 5 and also in part 3 ka first box  
+3)Copy the first line from the plaintext and paste it in part 3 ka second box  and then calculate xor  
 4)Copy this xor and paste it in part 4 ka plaintext 
 5)Copy part 2 ka key and paste it in part 4 ka key then encrypt
 6)Now copy the ciphertext and paste it in part 5 next to the IV that we had already pasted 
