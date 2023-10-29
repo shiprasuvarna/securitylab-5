@@ -62,6 +62,8 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 22)Now copy the ciphertext from part 4 and append it in part 5   
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7a0566eb-bdb4-4ef8-a546-1c40af2af326)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/ff2e98de-d75b-4f56-83d6-fdfe13d20a4f)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/c0c54dbd-bce3-4abe-b62e-b6f32d962e72)
+
 //first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
 
 # public key cryptosystem
