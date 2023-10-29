@@ -22,14 +22,17 @@ paste the same plaintext in part 4 and get the answer
 
 
 # mono alphabetic substitution cipher ass2
-![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/b425f511-57a2-40a0-8db5-092670c19be2)
-ans for above
-![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/890f7de7-d025-490c-94b5-1dd48e278bf9)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/b425f511-57a2-40a0-8db5-092670c19be2)  
+ans for above  
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/890f7de7-d025-490c-94b5-1dd48e278bf9)  
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8b0ac59b-9b4a-4d67-b25f-24475e521ae2)  
 and if you get this
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/ae57abdc-b12e-43d1-8501-b27cea17a746)
 ans is this 
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/7c448bbc-8019-4432-94e7-267994a8a1b8)
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/e05ef3cb-c4e2-4e92-a586-0e55cec26fb1)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/5b4f32f2-6505-44f3-b5af-251306284792)
+
 
 # aes 
 # ecb
