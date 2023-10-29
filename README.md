@@ -42,6 +42,10 @@ llly now same key and plaintext ka second line in part 4 ka plaintext encrypt wh
 ![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8e521161-92b8-4709-850d-a9fb9bf86df9)
 first complete  part 4 then encypt then paste this ciphertext in part 3 ka first box , paste the same plaintext used in part 4 in part 3 ka second box then calculate xor . then paste this xor in the final part 5 ka ans. keep repeating this method for all 5 lines of plaintext and paste the xors in part 5 5 times 
 
+# public key cryptosystem
+Enter a plaintext then scroll down choose 1024 bits or something then press on encrypt. youll get the ciphertext now decrypt it done 
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/9ecbff78-452e-44f2-a6a0-40ffd09353f0)
+![image](https://github.com/shiprasuvarna/sem-5/assets/102012006/8a6d6a75-84f7-4ff7-b3fb-43a32a37188a)
 
 
 # digital signature scheme 
